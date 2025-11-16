@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hax</h1>
 <h3 align="center">17 Year old guy that's rworded.</h3>
 
-![discord](https://discord.c99.nl/widget/theme-2/1137060569359319083.png )
+![discord](https://discord.c99.nl/widget/theme-2/834931250501910559.png )
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haxmcdev&label=Profile%20views&color=0e75b6&style=flat" alt="haxmcdev" /> </p>
 
