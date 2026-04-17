@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hax</h1>
-<h3 align="center">17 Year old guy that's rworded.</h3>
+<h3 align="center">18 Year old guy that's rworded.</h3>
 
 ![discord](https://discord.c99.nl/widget/theme-2/834931250501910559.png )
 
