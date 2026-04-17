@@ -7,23 +7,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haxmcdev" alt="haxmcdev" /></a> </p>
 
-- 🔭 I’m currently working on nothing!
-
-- 🌱 I’m currently learning **Java, TypeScript and C#**
+- 🔭 I’m currently working on a project 👀!
 
 - 👯 I’m looking to collaborate on anything
 
 - 👨‍💻 All of my projects are available at [https://github.com/haxmcdev/](https://github.com/haxmcdev/)
 
-- 💬 Ask me about **Skript and other things**
+- 💬 Ask me about **everything**
 
-- 📫 How to reach me **haxaws@proton.com**
+- 📫 How to reach me **haxmc@proton.com**
 
-- ⚡ Fun fact **Minehut is sweet**
+- ⚡ Fun fact **I love boobs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/xenz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xenz" height="30" width="40" /></a>
+<a href="https://discord.gg/soon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xenz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
